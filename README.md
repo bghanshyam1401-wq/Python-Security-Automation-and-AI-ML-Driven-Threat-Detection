@@ -1,7 +1,5 @@
 # Python-Security-Automation-and-AI-ML-Driven-Threat-Detection
 
-# Python Security Automation and AI/ML Threat Detection
-
 ## Project Overview
 
 This repository contains Python-based security automation tools designed to reduce security analyst workload. The project provides multithreaded network scanning, security-log parsing, public IP enrichment, VirusTotal intelligence lookups, and machine-learning-based threat detection.
