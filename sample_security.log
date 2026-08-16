@@ -1,0 +1,6 @@
+ug 14 10:01:15 firewall SRC=8.8.8.8 DST=192.168.56.10 ACTION=ALLOW
+Aug 14 10:02:22 firewall SRC=1.1.1.1 DST=192.168.56.11 ACTION=ALLOW
+Aug 14 10:03:18 sshd Failed password for root from 185.199.108.153 port 44321
+Aug 14 10:04:41 sshd Failed password for admin from 140.82.112.4 port 55211
+Aug 14 10:05:30 firewall SRC=192.168.1.100 DST=8.8.4.4 ACTION=DENY
+Aug 14 10:06:12 firewall SRC=10.0.0.5 DST=1.1.1.1 ACTION=ALLOW

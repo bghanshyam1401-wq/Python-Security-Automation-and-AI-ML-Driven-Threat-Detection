@@ -1,0 +1,29 @@
+Checking 5 unique public IP addresses with VirusTotal...
+
+{
+    "1.1.1.1": {
+        "malicious": 0,
+        "harmless": 57,
+        "last_analysis_date": "2026-08-14 09:38:50 UTC"
+    },
+    "140.82.112.4": {
+        "malicious": 0,
+        "harmless": 57,
+        "last_analysis_date": "2026-08-14 09:43:51 UTC"
+    },
+    "185.199.108.153": {
+        "malicious": 3,
+        "harmless": 54,
+        "last_analysis_date": "2026-08-14 09:37:08 UTC"
+    },
+    "8.8.4.4": {
+        "malicious": 2,
+        "harmless": 55,
+        "last_analysis_date": "2026-08-14 09:36:31 UTC"
+    },
+    "8.8.8.8": {
+        "malicious": 0,
+        "harmless": 54,
+        "last_analysis_date": "2026-08-14 00:00:28 UTC"
+    }
+}
